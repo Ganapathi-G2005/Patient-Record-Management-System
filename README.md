@@ -135,7 +135,7 @@ patient-record-system/
 - **Non-integer input** at any numeric prompt is caught without crashing
 - **Empty strings** for Name and Diagnosis are rejected
 - **Age** must be in the range 1–150
-- **Delete** requires explicit `y`/`Y` confirmation
+- **Delete** requires explicit `y`/`N` confirmation
 
 ---
 
