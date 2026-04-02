@@ -139,19 +139,6 @@ patient-record-system/
 
 ---
 
-## Commit History
-
-```
-git commit -m "Initial project setup and SRS documentation"
-git commit -m "Add data model, file I/O: loadFromFile and saveToFile"
-git commit -m "Implement CRUD: add, display, search operations"
-git commit -m "Implement update and delete with input validation"
-git commit -m "Add test cases and TESTING.md"
-git commit -m "Final cleanup, comments, and README"
-```
-
----
-
 ## Author
 
 **GMS Ganapathi** — April 2026  
